@@ -1,5 +1,4 @@
-# Project Title:
-Car Sales Dashboard Analysis Using Power BI (2019–2022)
+# Project Title:Car Sales Dashboard Analysis Using Power BI (2019–2022)
 
 Problem Statement:
 Automobile companies handle large volumes of data related to sales, service, budget, and growth. However, stakeholders often lack a centralized and visual way to analyze this data effectively over time. This leads to delayed decision-making and missed opportunities in sales forecasting and service planning. The challenge is to present this complex data in a clear, interactive, and actionable format for strategic decision-making.
